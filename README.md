@@ -4,3 +4,5 @@
 
 
 Hello World
+
+hyjyuil test build -c6
